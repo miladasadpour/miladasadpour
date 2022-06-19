@@ -8,11 +8,7 @@ I am Developer
 *   🚀  I'm currently working on Android Programing
 *   🤝  I'm open to collaborating on interesting projects as a web and android developer
 
-<a href="https://www.instagram.com/_miladasadpour/" target="_blank" rel="noreferrer"><img
-                  src="https://www.instagram.com/_miladasadpour/followers/"
-                /></a><a href="https://www.instagram.com/_miladasadpour/" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-                  
+
 ### Skills
 <p align="left">
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
