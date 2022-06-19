@@ -1,18 +1,13 @@
+
 My name is 𝕄𝕀𝕃𝔸𝔻 𝔸𝕊𝔸𝔻 ℙ𝕆𝕌ℝ | میلاد اسدپور
 
+===============================
 I am Android Developer
-
-⊱✧ 𝐆 𝐎 𝐃 𝐃 𝐈 𝐃 ✧⊰
-
-✦ 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝑺𝒕𝒖𝒅𝒆𝒏𝒕 💻
-
-✦ 𝑷𝒓𝒊𝒄𝒆 𝑨𝒄𝒕𝒊𝒐𝒏 𝑻𝒓𝒂𝒅𝒆𝒓 𝑰𝒏 𝑭𝒐𝒓𝒆𝒙 💹
-
-✦ 𝑨𝒏𝒅𝒓𝒐𝒊𝒅 & 𝑰𝑶𝑺 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 📲
-
-✦ 𝑰𝒓𝒂𝒏 , 𝑻𝒂𝒃𝒓𝒊𝒛📍
-
+-----------------------------
 *   🖥️  See my portfolio at [IG : _miladasadpour](https://www.instagram.com/_miladasadpour/)
+*   🚀  I'm currently working on Android Programing
+*   🤝  I'm open to collaborating on interesting projects as a web and android developer
+
 
 
 ### Skills
