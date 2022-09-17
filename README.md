@@ -5,8 +5,8 @@ My name is 𝕄𝕀𝕃𝔸𝔻 𝔸𝕊𝔸𝔻 ℙ𝕆𝕌ℝ | میلاد ا�
 
 I am Android Developer
 -----------------------------
-*   🖥️  See my portfolio at [IG : _miladasadpour](https://www.instagram.com/_miladasadpour/)
-*   🚀  I'm currently working on Android Programing
+*   🖥️  See my portfolio at [IG : startflutter](https://www.instagram.com/startflutter/)
+*   🚀  I'm currently working on Mobile Developer
 *   🤝  I'm open to collaborating on interesting projects as a web and android developer
 
 
